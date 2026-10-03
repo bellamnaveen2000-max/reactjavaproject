@@ -11,7 +11,7 @@ start locally before SQL Server credentials are configured.
 
 ## Requirements
 
-- Java 25 LTS
+- Java 21 LTS
 - Maven 3.9 or newer
 
 ## Run locally
