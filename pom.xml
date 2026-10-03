@@ -23,5 +23,6 @@
 
     <properties>
         <java.version>25</java.version>
+        <mssql-jdbc.version>12.10.2.jre11</mssql-jdbc.version>
     </properties>
 </project>
