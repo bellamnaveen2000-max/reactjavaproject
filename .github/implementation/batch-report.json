@@ -44,7 +44,9 @@
     ]
   },
   "delivery": {
-    "localCommit": "pending",
+    "localCommit": "55a48339ec3abc6e935bafd7ea0eb3f4c477364a",
+    "branch": "appmod/java-upgrade-20261003132931",
+    "separateExerciseStepCommits": "unavailable; repository interface commits the complete worktree",
     "push": "unavailable through the provided repository operation interface"
   }
 }
