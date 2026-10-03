@@ -9,6 +9,11 @@ Both services include Spring Web, Spring Data JPA, the Microsoft SQL Server JDBC
 driver, and Lombok. They use an in-memory H2 database by default so they can
 start locally before SQL Server credentials are configured.
 
+## Requirements
+
+- Java 25 LTS
+- Maven 3.9 or newer
+
 ## Run locally
 
 From this directory, run each service in a separate terminal:
